@@ -1,0 +1,25 @@
+{
+  "name": "udaysharma-2500320101256",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000S\u0000D\u0000-\u0000m\u0000t\u0000-\u00001\u0000-\u0000p\u0000r\u0000a\u0000t\u0000i\u0000c\u0000a\u0000l\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaysharma189/FSD-mt-1-pratical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/udaysharma189/FSD-mt-1-pratical/issues"
+  },
+  "homepage": "https://github.com/udaysharma189/FSD-mt-1-pratical#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
